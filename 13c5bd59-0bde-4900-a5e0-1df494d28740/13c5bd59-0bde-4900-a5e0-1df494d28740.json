@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/7/2026 1:18:09 PM +00:00",
-      "DateModify": "9/7/2026 1:18:09 PM +00:00",
+      "DateCreation": "9/7/2026 1:37:03 PM +00:00",
+      "DateModify": "9/7/2026 1:37:03 PM +00:00",
       "Title": "New Flow20",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -1352,7 +1352,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=PurchAgreementListPage",
         "Fields": "",
-        "StrategyListSource": "8be96e84-3fa8-4e33-9867-fcf530a2081c",
+        "StrategyListSource": "7df5cca8-1b95-4cc9-9b7d-baf585323abb",
         "HasImage": "False",
         "RawId": "b6be9ece-b498-4517-9264-14da218f0f1c",
         "SelectedStrategyId": "112006ee-54bb-430c-9c5b-e81b359bd011",
@@ -1368,7 +1368,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=PurchAgreementListPage",
         "Fields": "",
-        "StrategyListSource": "89bee303-42a7-4429-9aad-658816dd1452",
+        "StrategyListSource": "4366d7c6-4c58-4fca-b641-53a336ba2dae",
         "HasImage": "False",
         "RawId": "024a0424-bb40-4bbc-a37a-497ef5d7959c",
         "SelectedStrategyId": "68a24c21-5c17-4ad3-8620-8b810c674243",
@@ -1384,7 +1384,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=PurchAgreementListPage",
         "Fields": "",
-        "StrategyListSource": "8ed37870-5dbe-4994-86ed-73a4b6d88567",
+        "StrategyListSource": "0f142e1c-6ff0-421e-96d7-106e8e6f8996",
         "HasImage": "False",
         "RawId": "abde6185-3aa5-447b-b4e2-1f9a42f58673",
         "SelectedStrategyId": "b22cfd02-a627-4780-8127-6fd596871301",
