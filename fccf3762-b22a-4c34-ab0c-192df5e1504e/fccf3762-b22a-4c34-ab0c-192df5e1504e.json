@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/7/2026 1:18:07 PM +00:00",
-      "DateModify": "9/7/2026 1:18:07 PM +00:00",
+      "DateCreation": "9/7/2026 1:37:00 PM +00:00",
+      "DateModify": "9/7/2026 1:37:00 PM +00:00",
       "Title": "1_Create A Customer",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -83008,7 +83008,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "6d3b1f97-64d2-44a0-8d93-370747b60e1c",
+        "StrategyListSource": "98b26c72-aae5-4525-83e0-d6246328fc3c",
         "HasImage": "False",
         "RawId": "6df69a05-4763-4c8b-854c-a3f976440871",
         "SelectedStrategyId": "98793089-29bb-4ab7-a3cf-96d0d3a3b214",
@@ -83024,7 +83024,7 @@
       {
         "Uri": "https://login.microsoftonline.com/leapwork.com/wsfed?wa=wsignin1.0&wtrealm=spn%3a00000015-0000-0000-c000-000000000000&wctx=rm%3d0%26id%3dpassive%26ru%3d%252f&wct=2023-04-17T12%3a12%3a30Z&wreply=https%3a%2f%2fleapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com%2f",
         "Fields": "",
-        "StrategyListSource": "2c0f6d9b-e7ea-43ee-86bc-7961ec3dcced",
+        "StrategyListSource": "18d711b0-3ec4-4719-8190-e4c125af770c",
         "HasImage": "False",
         "RawId": "ca384e80-83d7-43a7-b4e1-d048c03c994d",
         "SelectedStrategyId": "60bab0dc-ca34-4ebd-bcea-e8399812937f",
@@ -83040,7 +83040,7 @@
       {
         "Uri": "",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "c25dcf6d-0a8e-4a7e-aae6-9800cbc6e2ba",
+        "StrategyListSource": "1c0b1e0d-5b55-4084-b164-51c6a07b8075",
         "HasImage": "False",
         "RawId": "82df27a4-e5ff-41a7-84c2-444471ab8249",
         "SelectedStrategyId": "8c600b45-c0ec-4a37-a162-c0efa4d2bc4e",
@@ -83056,7 +83056,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=ReqParameters",
         "Fields": "",
-        "StrategyListSource": "818037e7-689e-4652-a3fb-46fd5afeeddb",
+        "StrategyListSource": "ab51e7f0-b28d-4d85-bdf6-33f2a2ad94d9",
         "HasImage": "False",
         "RawId": "f984bb85-1282-4936-a455-1c885be8dc9b",
         "SelectedStrategyId": "829b4e84-f4f3-4b33-9316-afcf93a02b86",
@@ -83072,7 +83072,7 @@
       {
         "Uri": "https://login.microsoftonline.com/leapwork.com/wsfed?wa=wsignin1.0&wtrealm=spn%3a00000015-0000-0000-c000-000000000000&wctx=rm%3d0%26id%3dpassive%26ru%3d%252f&wct=2023-04-17T12%3a12%3a30Z&wreply=https%3a%2f%2fleapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com%2f",
         "Fields": "",
-        "StrategyListSource": "243f8493-489a-4e7e-b791-c02957a8863d",
+        "StrategyListSource": "e4b94970-2875-4bfd-a513-3595e134d57b",
         "HasImage": "False",
         "RawId": "c8f9bc47-bc85-41ff-8439-b27907d6c3e6",
         "SelectedStrategyId": "8ce82529-fec8-426b-a0df-fd418336bb30",
@@ -83088,7 +83088,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=VendTableListPage",
         "Fields": "",
-        "StrategyListSource": "9c82eea5-ecee-4d31-bae2-25c1d5cac5f0",
+        "StrategyListSource": "563d9677-341e-4fc3-ad80-5afe4d4a5254",
         "HasImage": "False",
         "RawId": "72ac5d9d-5bb6-4811-a6ea-1fb6cf59980e",
         "SelectedStrategyId": "4c03616f-c83d-4f77-920a-2c8da814cc73",
@@ -83104,7 +83104,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "bbad1544-a760-4407-929d-5c6c58a8141b",
+        "StrategyListSource": "67c344f3-d781-4399-b98e-80dd17391b7a",
         "HasImage": "False",
         "RawId": "cb18c435-99da-4b01-8cab-e1dd2fe46544",
         "SelectedStrategyId": "73a507a6-415d-41f2-9fcd-2a05016c2f77",
@@ -83120,7 +83120,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=CustTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "7acfae42-682d-446f-ac25-84077fc87de2",
+        "StrategyListSource": "07dd8c93-a65e-44be-bb3c-cca409c8e679",
         "HasImage": "False",
         "RawId": "fcf5f259-5df3-4fcc-a69c-24311473269e",
         "SelectedStrategyId": "c225879a-5e2e-4db1-8ead-b8efcb121425",
@@ -83136,7 +83136,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=SystemAdministrationWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "e874a527-7089-46bb-8e33-b1e9167ced00",
+        "StrategyListSource": "5d6593fb-6b76-4390-96f9-dc59b9c19aec",
         "HasImage": "False",
         "RawId": "26f81dbc-d7e2-4a3e-a6d8-acce080123df",
         "SelectedStrategyId": "aee76a58-8a47-49e2-91c8-72a547a825ef",
@@ -83152,7 +83152,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=CustTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "c565a4f1-19ef-46c8-a1ae-78a8f97543da",
+        "StrategyListSource": "e51720fa-2727-4154-9849-b3adf215dfd8",
         "HasImage": "False",
         "RawId": "fcf5f259-5df3-4fcc-a69c-24311473269e",
         "SelectedStrategyId": "801bb5e0-e1c6-4463-80e3-8e5884e35cc4",
@@ -83168,7 +83168,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=ReqParameters",
         "Fields": "",
-        "StrategyListSource": "2f48bd0e-de28-43bd-9c49-3fba38b7f637",
+        "StrategyListSource": "db9d783e-d823-48dc-a4c5-44d4eb2b000f",
         "HasImage": "False",
         "RawId": "f984bb85-1282-4936-a455-1c885be8dc9b",
         "SelectedStrategyId": "ebbcbf61-f533-450e-bd50-4c260acaf5a4",
@@ -83184,7 +83184,7 @@
       {
         "Uri": "https://login.microsoftonline.com/leapwork.com/wsfed?wa=wsignin1.0&wtrealm=spn%3a00000015-0000-0000-c000-000000000000&wctx=rm%3d0%26id%3dpassive%26ru%3d%252f&wct=2023-04-17T11%3a58%3a33Z&wreply=https%3a%2f%2fleapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com%2f&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "a3d9c21f-8c4a-4798-9b50-27fcf7ab9677",
+        "StrategyListSource": "9654f4de-f646-4b4c-8745-a835980da773",
         "HasImage": "False",
         "RawId": "c0ec6b16-fdea-498c-aa9f-8f0d263a55d4",
         "SelectedStrategyId": "9dfc0ba5-5f01-4145-8a8e-0ebf5ff69199",
@@ -83200,7 +83200,7 @@
       {
         "Uri": "https://login.microsoftonline.com/leapwork.com/wsfed?wa=wsignin1.0&wtrealm=spn%3a00000015-0000-0000-c000-000000000000&wctx=rm%3d0%26id%3dpassive%26ru%3d%252f&wct=2023-04-17T11%3a58%3a33Z&wreply=https%3a%2f%2fleapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com%2f&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "95012e5a-66f4-4489-bbd5-10fe78e0375c",
+        "StrategyListSource": "394b08c9-94ee-414b-b863-89966378c86f",
         "HasImage": "False",
         "RawId": "55ad3b71-034e-4550-a38b-8c80f123632a",
         "SelectedStrategyId": "b871e26d-e33c-46a6-b45c-0ff04c7cab89",
@@ -83216,7 +83216,7 @@
       {
         "Uri": "https://leapworkdynamicsfnof27a476bf982b275devaos.axcloud.dynamics.com/?cmp=USMF&mi=CustTableListPage",
         "Fields": "",
-        "StrategyListSource": "8b77c60e-b7e4-4ec7-8278-b12d1c09ad5b",
+        "StrategyListSource": "a502e4ad-669f-4fef-a4ee-ffe45bdee01a",
         "HasImage": "False",
         "RawId": "10a0dc72-82f6-45fd-8561-041fe485439c",
         "SelectedStrategyId": "883980b9-c2e6-4307-b666-c670d5d74400",
@@ -83232,7 +83232,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=SystemAdministrationWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "5db5072e-604a-42e9-a0db-1dd070e473ae",
+        "StrategyListSource": "184886b8-5249-4bc4-8f4e-04bf7802c352",
         "HasImage": "False",
         "RawId": "26f81dbc-d7e2-4a3e-a6d8-acce080123df",
         "SelectedStrategyId": "a24952e9-913b-4f64-bfe6-ea3898586262",
@@ -83248,7 +83248,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=BankReconciliationHeader",
         "Fields": "",
-        "StrategyListSource": "958e6b2a-3043-4c95-82ff-498d4832b716",
+        "StrategyListSource": "df73a5b6-adb4-4b11-8bb9-fdcfcdcb296d",
         "HasImage": "False",
         "RawId": "b39e0a13-53ea-4673-ad50-324455859849",
         "SelectedStrategyId": "dee1cfae-1518-41b5-bba2-a60dfc967841",
@@ -83264,7 +83264,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=CustTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "edcfdaca-e6dc-4cbe-96d7-8d7511b63ba2",
+        "StrategyListSource": "acaf7c4d-8fd1-4280-aad3-8792fbdffbd9",
         "HasImage": "False",
         "RawId": "9a468273-8ac2-451f-bc9b-61ca7ab2c9b6",
         "SelectedStrategyId": "94c7c344-f45a-40f1-b066-43c613c150fe",
@@ -83280,7 +83280,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=INMF&mi=CustTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "4fce7a93-8479-4736-a7d9-f9ab2e9383cf",
+        "StrategyListSource": "dda795c7-9fef-43ce-818f-ff58bd85c70f",
         "HasImage": "False",
         "RawId": "04e967a6-7d30-47b3-be32-7422149442d9",
         "SelectedStrategyId": "282bfc3a-a3fc-4e60-b927-63abcf7fa157",
@@ -83296,7 +83296,7 @@
       {
         "Uri": "https://login.microsoftonline.com/leapwork.com/login",
         "Fields": "",
-        "StrategyListSource": "4939e431-9fab-4d14-8566-29e20b7cdae9",
+        "StrategyListSource": "67ed8c68-8738-4fab-a145-c85f83a0a467",
         "HasImage": "False",
         "RawId": "9cd1e0c3-708d-49f4-815c-7d179536aa27",
         "SelectedStrategyId": "6491aa7d-4069-4f99-a9ee-e74892f375c7",
@@ -83312,7 +83312,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "4840dee0-2020-48c6-ab76-cf29463688f0",
+        "StrategyListSource": "30bf50be-3a0d-421d-9c07-b50b43c5b411",
         "HasImage": "False",
         "RawId": "de1ac551-3942-4211-9213-b9d120c2df3b",
         "SelectedStrategyId": "a7bc7ee0-0bde-46b8-9e88-8140e459a45c",
@@ -83328,7 +83328,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "e9354c04-719c-47bc-a986-055c6380f22b",
+        "StrategyListSource": "71d3aa09-d2c1-4f95-97c3-2cde8436f90d",
         "HasImage": "False",
         "RawId": "8e21ac1e-25b9-42e2-93e6-1bc8661dd10c",
         "SelectedStrategyId": "96aa1ddc-bfb4-40b4-84f3-2207af851ec3",
@@ -83344,7 +83344,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "01ea1e19-4699-4559-a3f9-524e97fe15c1",
+        "StrategyListSource": "f3a26a89-9969-49be-86fb-bb8eeb9c0469",
         "HasImage": "False",
         "RawId": "2bf930c1-45fe-49da-b929-b97756060bbd",
         "SelectedStrategyId": "bef953c6-1416-42ac-b1b8-7cc73f69d6b9",
@@ -83360,7 +83360,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=PurchAgreementListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "3da49792-bbf8-4b20-992f-7bea084b702b",
+        "StrategyListSource": "cb83e886-3164-4e3e-870e-fa89f5e09495",
         "HasImage": "False",
         "RawId": "02eb9ffe-2409-47fa-92e9-e244a8ebfe3b",
         "SelectedStrategyId": "30e6517a-a3e2-44e7-8842-0b3f7787265f",
@@ -83376,7 +83376,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=EcoResDistinctProductListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "2808c846-da50-415d-8f71-75b908c2dfe0",
+        "StrategyListSource": "92987b12-0d95-4354-803e-319622aebb47",
         "HasImage": "False",
         "RawId": "4fb2d02f-ea8b-4174-9680-c51d12593ac0",
         "SelectedStrategyId": "6c50d7e3-5dd2-4b2e-946f-95f3f6069b88",
@@ -83392,7 +83392,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=EcoResDistinctProductListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "a0b9d4fb-dd1e-4671-8948-8e623f75dbe2",
+        "StrategyListSource": "ed0c6269-279b-4218-b4be-2800d39f9210",
         "HasImage": "False",
         "RawId": "ab30c205-c501-4e8a-ad0e-1a181c1c6fe3",
         "SelectedStrategyId": "38325d48-004e-4d7b-9e3b-4649a75635ed",
@@ -83408,7 +83408,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=SystemAdministrationWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "a0a5c52f-d886-4392-8936-dddf91cda23b",
+        "StrategyListSource": "f24cbc33-3f9d-4789-8ef8-b1ff28a6dbaf",
         "HasImage": "False",
         "RawId": "26f81dbc-d7e2-4a3e-a6d8-acce080123df",
         "SelectedStrategyId": "4f8546f2-68ed-436e-b4b6-68d4b1597a97",
@@ -83424,7 +83424,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=BankTreasurerWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "a100d7cc-4c0e-47ea-ac88-ceab208e2a7f",
+        "StrategyListSource": "fc23d135-692b-4e5c-b9f1-3cfe58f8c440",
         "HasImage": "False",
         "RawId": "a63d8049-89e3-4108-b721-10c75e8151b9",
         "SelectedStrategyId": "c55e99c1-e194-443a-9265-652f0d1bf4bb",
@@ -83440,7 +83440,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=HcmWorkforceWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "9b109a4c-2345-43b6-a209-e46fa5694d76",
+        "StrategyListSource": "fcc16ba6-0ebd-49ee-9a7b-c3e474137e24",
         "HasImage": "False",
         "RawId": "e98a104b-6680-46d0-a315-3e1171a05b51",
         "SelectedStrategyId": "57c6b1a6-025c-48d4-8302-b9fe5d32239c",
@@ -83456,7 +83456,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=BankTreasurerWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "197750e2-799e-4935-922a-1365b017a157",
+        "StrategyListSource": "7690b7b6-b889-4714-a610-f4748be5231e",
         "HasImage": "False",
         "RawId": "a63d8049-89e3-4108-b721-10c75e8151b9",
         "SelectedStrategyId": "cba7e226-53d1-43b4-9000-b35c849327e3",
