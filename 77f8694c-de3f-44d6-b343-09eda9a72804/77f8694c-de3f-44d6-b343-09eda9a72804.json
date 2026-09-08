@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "aAB0AHQAcABzADoALwAvAGQAZQB2AC4AYQB6AHUAcgBlAC4AYwBvAG0ALwBDAG8AbAB1AG0AYgB1AHMATwBIAC8ALwBMAGUAYQBwAHcAbwByAGsAIAAtACAAVABlAHMAdAAgAEEAdQB0AG8AbQBhAHQAaQBvAG4ALwBfAHcAbwByAGsAaQB0AGUAbQBzAC8AZQBkAGkAdAAvADgAMQAzADIADQAKAA==",
-      "DateCreation": "9/7/2026 1:36:48 PM +00:00",
-      "DateModify": "9/7/2026 1:36:48 PM +00:00",
+      "DateCreation": "9/8/2026 4:59:45 AM +00:00",
+      "DateModify": "9/8/2026 4:59:45 AM +00:00",
       "Title": "8132 : PS026.01 - Create PR for an external catalog item [with GBR] CITY WIDE products in Aquiire <$2,500",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -47593,7 +47593,7 @@
       {
         "Uri": "https://columbus-test.coupahost.com/requisition_headers/354/edit",
         "Fields": "",
-        "StrategyListSource": "fc2c063f-7328-49fd-a16b-0881ed5e9ce0",
+        "StrategyListSource": "9b9b5a91-403f-42eb-abbc-eb334c4e9664",
         "HasImage": "False",
         "RawId": "63a6552d-8fe4-4b5f-9e2d-cb7492f15143",
         "SelectedStrategyId": "b71727f7-6a90-42e2-85d8-f6cb75136686",
@@ -47609,7 +47609,7 @@
       {
         "Uri": "https://columbus-test.coupahost.com/",
         "Fields": "",
-        "StrategyListSource": "733b2d07-d367-45b7-8b3e-b5454b17c0b8",
+        "StrategyListSource": "2b79786f-49d0-4792-a144-bf70be891cc5",
         "HasImage": "False",
         "RawId": "ffb9d076-9fd5-43b9-94df-669a03944fe5",
         "SelectedStrategyId": "816dab93-968d-4df2-9ae8-c0a008f3a1a8",
@@ -47625,7 +47625,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "ea30dee4-a47c-4fe0-a863-f468ff745a89",
+        "StrategyListSource": "7ea33852-2599-4d8a-be41-a1c06f7d84a3",
         "HasImage": "False",
         "RawId": "54a1442f-c1d3-4dd9-b033-ce405dedf99b",
         "SelectedStrategyId": "dd7ce075-4066-4cc0-9870-ddd7c52bd6fe",
@@ -47641,7 +47641,7 @@
       {
         "Uri": "https://www.key4cleaningsupplies.com/catalog/ShoppingList_Items_List.aspx",
         "Fields": "",
-        "StrategyListSource": "57b6e575-72e5-48bd-acb8-62ac9083f9af",
+        "StrategyListSource": "56ba3ee6-dc1d-4152-b4d9-224074bc5a0f",
         "HasImage": "False",
         "RawId": "be689fc0-f924-41ff-bca5-cc3b956819de",
         "SelectedStrategyId": "683f99bf-4579-4a9e-acc4-2832e02a0dda",
@@ -47657,7 +47657,7 @@
       {
         "Uri": "https://www.key4cleaningsupplies.com/Catalog/CatalogSearch.aspx?Value=BWK396LBXA",
         "Fields": "",
-        "StrategyListSource": "bcc20e64-e51a-40c8-8073-b0f7d5a4b39c",
+        "StrategyListSource": "abfc61f7-cad7-4c30-8618-d6a8a0e83074",
         "HasImage": "False",
         "RawId": "cc3d20e9-07f5-47fe-87f8-c73f03ad60cf",
         "SelectedStrategyId": "62d971ad-ea7e-4489-90ca-d4f81b4105d0",
@@ -47673,7 +47673,7 @@
       {
         "Uri": "https://www.key4cleaningsupplies.com/catalog/p/%5eBWK396LBXA/Boardwalk-396-Series-Disposable-General-Purpose-Nitrile-Gloves-Powder-Free-Large-44-mil-Thick-95-Long-Black-100-Box-/",
         "Fields": "",
-        "StrategyListSource": "8fca64fa-5aa9-4d73-9761-85ae0fba02de",
+        "StrategyListSource": "97b7a306-b0d4-4b30-a1e5-dbde066b9814",
         "HasImage": "False",
         "RawId": "d9eed348-0ce9-4309-9d53-c5b4029fa6cd",
         "SelectedStrategyId": "3af97f5c-1f74-42fe-ac61-db409d810ef4",
@@ -47689,7 +47689,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "d9248598-a8d5-4192-93ed-abb2633e364f",
+        "StrategyListSource": "dacea90a-8f04-4ba0-9dc7-325a5e40082a",
         "HasImage": "False",
         "RawId": "354265c2-6618-4b1b-97b6-704010be145b",
         "SelectedStrategyId": "beef98c7-44aa-4ded-954c-425d7357af9d",
@@ -47705,7 +47705,7 @@
       {
         "Uri": "https://colstraining-2.sandbox.operations.dynamics.com/?cmp=COLS&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "4703c5f4-dd3e-4bc8-b0ce-b314b3480606",
+        "StrategyListSource": "c683ec5b-4497-4a7c-bddb-d9a46e0cee90",
         "HasImage": "False",
         "RawId": "82dd1d10-ecef-4aff-b55d-331e7f9f0194",
         "SelectedStrategyId": "db058631-4432-4c24-a138-cae80b790f10",
@@ -47721,7 +47721,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "9e11eb11-95fd-4d34-95f4-fa615631d24b",
+        "StrategyListSource": "8bc7680b-11ba-4b18-99d9-39b8f79f87b5",
         "HasImage": "False",
         "RawId": "857481a3-372a-4f64-94cc-2eecd576555a",
         "SelectedStrategyId": "1d4bfe5b-6559-49d2-bb9d-89b7c88fb695",
@@ -47737,7 +47737,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "aed6edce-7350-4c6f-8f82-7e0a4dcdd74e",
+        "StrategyListSource": "0d1a03a3-3e6a-4ca0-a94a-b46520c5ffd6",
         "HasImage": "False",
         "RawId": "40f68c72-81a8-4b02-b21a-b0a41cb56ea2",
         "SelectedStrategyId": "78b0eedb-8789-422d-a18f-8709d4a40699",
@@ -47753,7 +47753,7 @@
       {
         "Uri": "https://columbus-test.coupahost.com/requisition_headers/354/punchout_checkout?current_action=edit",
         "Fields": "",
-        "StrategyListSource": "88c9099f-d7ae-4ebd-8965-48746e44ca72",
+        "StrategyListSource": "84525cee-db11-4804-8383-bfde4e8256cc",
         "HasImage": "False",
         "RawId": "515dabaa-10d4-4e05-b459-20b5e02d6194",
         "SelectedStrategyId": "cf8f6a55-e964-4660-a100-c10f415edc0a",
@@ -47769,7 +47769,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "475e5c11-8823-4132-8c94-e206a761e696",
+        "StrategyListSource": "10e2951c-49bc-49e3-99aa-d065c29aa1e4",
         "HasImage": "False",
         "RawId": "00b45646-df8d-43a9-a45c-a154c6ee97ec",
         "SelectedStrategyId": "d9ee57ea-23fa-48e4-853c-1d09f221b031",
@@ -47785,7 +47785,7 @@
       {
         "Uri": "https://www.key4cleaningsupplies.com/catalog/ShoppingList_Items_List.aspx",
         "Fields": "",
-        "StrategyListSource": "3853d1b4-66f9-4ed3-bd32-f9d64ccc343e",
+        "StrategyListSource": "df6e5e39-9381-4f65-b841-f44b0dca73a9",
         "HasImage": "False",
         "RawId": "888b1045-440e-4391-a80c-45948bac04a5",
         "SelectedStrategyId": "31a0ff8e-88f5-4da7-9898-f777f9a58dd2",
@@ -47801,7 +47801,7 @@
       {
         "Uri": "https://colstraining-2.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "fb9b5607-4588-446f-a6cc-c31facb10fff",
+        "StrategyListSource": "6c17b57f-4913-4bcb-814d-78b4ce553802",
         "HasImage": "False",
         "RawId": "33407192-0bbc-447b-b567-30b8738524f4",
         "SelectedStrategyId": "eed80746-37a2-4db9-bcb0-b8c5d84c2a37",
@@ -47817,7 +47817,7 @@
       {
         "Uri": "https://colstraining-2.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "3f65ec44-c0e5-447c-aa4b-533d4cd9c20d",
+        "StrategyListSource": "431c7dc7-77e0-4df2-af7e-4617f3d8016b",
         "HasImage": "False",
         "RawId": "8449a55d-71c6-4335-8934-5252677aa81c",
         "SelectedStrategyId": "a6551876-b180-4a77-b325-a162a7ad1dec",
@@ -47833,7 +47833,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAA68156R_XoUaeXJ3lV1gjBAAAAAACAAAAAAAQZgAAAAEAACAAAAD84YC9tnIFIRvbYQJXjhn12s4BHmyV5Ky2JIugZo3pZwAAAAAOgAAAAAIAACAAAADjFj_Uc-_1RWm6Ks8cIcg6MDKPg-rwCmtrt2RW986j3lAAAAC-OuaUD0zq_kpKIdRGiTI0eAqA0vuyH0SGAckvYHrIMY5WWrCFEl2irXmYdHgKR_u-tmvW_M4sNuK5IeCUgw4bB5TNHf-8M0l0wBQGvqMoSUAAAAB639ngEbcU3jH69dYhpIjLPGJrSaCBfAgbpxuKeir0oE8VTgJ6yhOMF5_7wzKlk1YN8sA-fDMznrx630O8jF2d%26RedirectTo%3dhttps%253A%252F%252Fcolstraining-2.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639052132121915769.NDFlNzI3OGUtYzJmMy00YjY3LThjOGYtNThmZWIzYmE3ZTQ5YjkwY2JkNDctZTJlZC00NjBjLThkYjItMTkzNWRmNmNlNTQy&redirect_uri=https%3a%2f%2fcolstraining-2.sandbox.operations.dynamics.com%2f&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_nonce=AwABEgEAAAADAOz_BQD0_7_ExfyUJHXvfblkpzG-UP5WFxlKRSdGFnFrSDJqJzVbj9gCSWGEvTjTKsX3RHC16E8VODHjFWcqSXW3PiPjFw8gAA&client-request-id=cbcd8de3-bf8c-4986-976c-d0a244a04a4d&mscrid=cbcd8de3-bf8c-4986-976c-d0a244a04a4d",
         "Fields": "",
-        "StrategyListSource": "499478a4-e8b8-435c-abc8-bfa4b138048f",
+        "StrategyListSource": "f53ec4db-9709-49e9-99c2-d86a695a6c48",
         "HasImage": "False",
         "RawId": "01e3338c-e64f-4ff5-9bfc-c09492a7b525",
         "SelectedStrategyId": "a16e39e6-4dff-4e4e-8c38-e52dd409a285",
@@ -47849,7 +47849,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "2f55060f-f5d4-4101-8770-f6524364ab4c",
+        "StrategyListSource": "f481d20e-af40-4bb1-9377-614324b39b86",
         "HasImage": "False",
         "RawId": "c8ede7ea-6213-4993-b285-07a4fe5f8fca",
         "SelectedStrategyId": "ef7eda1a-78c7-475f-9773-1699f821a7e9",
@@ -47865,7 +47865,7 @@
       {
         "Uri": "https://www.key4cleaningsupplies.com/catalog/p/%5eBWK396LBXA/Boardwalk-396-Series-Disposable-General-Purpose-Nitrile-Gloves-Powder-Free-Large-44-mil-Thick-95-Long-Black-100-Box-/",
         "Fields": "",
-        "StrategyListSource": "72fe7c33-7c9a-4485-a2ff-1f8e01a1f0a4",
+        "StrategyListSource": "f7970565-e8bf-4a70-94e0-3489a24edff7",
         "HasImage": "False",
         "RawId": "ebcafd2b-d975-423c-b9f8-0c97ffaad88d",
         "SelectedStrategyId": "c1009027-9a1a-4e99-b618-8df60c520659",
@@ -47881,7 +47881,7 @@
       {
         "Uri": "https://colstraining-2.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "5b0f91c5-655f-4eab-bc57-a5ab05b11bea",
+        "StrategyListSource": "c566c3c2-2255-462b-a92c-9e799606bafb",
         "HasImage": "False",
         "RawId": "0d7fc6ec-1f71-4c6d-9a09-401a40c5f5e2",
         "SelectedStrategyId": "8b8566f8-5c59-4324-84bb-7373ab02d106",
@@ -47897,7 +47897,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=CatExternalCatalogBasketWizard&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "41f0a8e4-4084-4dc2-9d39-3108bd82486a",
+        "StrategyListSource": "28f2e9af-a2e4-4856-a05f-7478e7e1d943",
         "HasImage": "False",
         "RawId": "f5463375-e593-49ef-bf20-bc06dd044433",
         "SelectedStrategyId": "be149156-0e34-44d2-abce-a42976fe5ba9",
@@ -47913,7 +47913,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "38643fcf-8581-4774-a947-1047df718463",
+        "StrategyListSource": "1c6a9278-525d-4bd0-9b54-1bf9fc654f91",
         "HasImage": "False",
         "RawId": "f1c9044c-0c56-4f50-8343-86bfd9c04fb8",
         "SelectedStrategyId": "cf959bee-5317-4d74-ae32-48c77c4c4997",
@@ -47929,7 +47929,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "a5067215-3948-4cb6-a043-fafd5de949ed",
+        "StrategyListSource": "efca4594-5925-4d8f-918a-34b696a4e32e",
         "HasImage": "False",
         "RawId": "9282d23a-f8fb-4513-87dd-fca2d2da0797",
         "SelectedStrategyId": "bd07e980-01c3-407f-a921-0b9d14c329b1",
@@ -47945,7 +47945,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "47da6c57-9055-47d9-9287-773cc5ede892",
+        "StrategyListSource": "64171aba-190a-4d8a-a8f8-912f32915c5e",
         "HasImage": "False",
         "RawId": "b9a2f1be-b776-4965-9ba6-0160117a9522",
         "SelectedStrategyId": "3ee4e304-bd33-4542-8380-67d2c01c58c2",
@@ -47961,7 +47961,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "ef542677-b6eb-43a0-acec-7029f17abacf",
+        "StrategyListSource": "c705a86f-de8c-450e-8737-91539431ee53",
         "HasImage": "False",
         "RawId": "3fd2df8b-8281-4f27-8134-41f1f1a779a0",
         "SelectedStrategyId": "51811847-1f02-4742-b83e-24f746db7b33",
@@ -47977,7 +47977,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAA68156R_XoUaeXJ3lV1gjBAAAAAACAAAAAAAQZgAAAAEAACAAAAD84YC9tnIFIRvbYQJXjhn12s4BHmyV5Ky2JIugZo3pZwAAAAAOgAAAAAIAACAAAADjFj_Uc-_1RWm6Ks8cIcg6MDKPg-rwCmtrt2RW986j3lAAAAC-OuaUD0zq_kpKIdRGiTI0eAqA0vuyH0SGAckvYHrIMY5WWrCFEl2irXmYdHgKR_u-tmvW_M4sNuK5IeCUgw4bB5TNHf-8M0l0wBQGvqMoSUAAAAB639ngEbcU3jH69dYhpIjLPGJrSaCBfAgbpxuKeir0oE8VTgJ6yhOMF5_7wzKlk1YN8sA-fDMznrx630O8jF2d%26RedirectTo%3dhttps%253A%252F%252Fcolstraining-2.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639052132121915769.NDFlNzI3OGUtYzJmMy00YjY3LThjOGYtNThmZWIzYmE3ZTQ5YjkwY2JkNDctZTJlZC00NjBjLThkYjItMTkzNWRmNmNlNTQy&redirect_uri=https%3a%2f%2fcolstraining-2.sandbox.operations.dynamics.com%2f&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_nonce=AwABEgEAAAADAOz_BQD0_7_ExfyUJHXvfblkpzG-UP5WFxlKRSdGFnFrSDJqJzVbj9gCSWGEvTjTKsX3RHC16E8VODHjFWcqSXW3PiPjFw8gAA&client-request-id=cbcd8de3-bf8c-4986-976c-d0a244a04a4d&mscrid=cbcd8de3-bf8c-4986-976c-d0a244a04a4d",
         "Fields": "",
-        "StrategyListSource": "9a1bce7c-d0a5-41a5-a190-fcc1eda5dc6f",
+        "StrategyListSource": "48eed88d-b03a-43c9-8101-518ba4637a8a",
         "HasImage": "False",
         "RawId": "d850e10f-bd71-41b1-95ba-be1c883c88a2",
         "SelectedStrategyId": "584f6935-2f0f-46b9-8f0a-f8fe537f4d43",
@@ -47993,7 +47993,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAV27qgQ2C7U2lsywZ6nRJPgAAAAACAAAAAAAQZgAAAAEAACAAAACLevirg-XDs6orcw-T9fwRUJu9Rsfd0z4O5i8kN4LOcgAAAAAOgAAAAAIAACAAAADn_6wB5DIdKDcI7v8tlZg4F_iSHO33LdvR7jIaSZVljHAAAAAmQ9xpvsayERqcu5B1O2BY9_X9QwzmeNRwjwHpIl5Mj48I0vWijKTaGxoWtGnBK4223v17kPhI5cy68KxWXHToGjvl5jlC2jQDsOSvmi4BPQneplrFYVJgG3IliGWIa8xn-xsvCokzfmR1nDQNuW0SQAAAANDM1kIurrxvBIaR1iItXXZnamxf1BU356rSmeyLi7eza4ebHZEgEtqHxPQ8MpKvoqWWn3DiCJ2AjjvE-ECvU0c%26RedirectTo%3Dhttps%253A%252F%252Fcolspos.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639021918530767910.YjBmYTE1MTktMmI3ZS00ZmJjLWI2MjAtMjFmMDFhZjAwOGIwZjJkMjA5YzctYzQ5ZS00OGJhLThiM2UtMDlhNTExNDA0NjMw&redirect_uri=https%3A%2F%2Fcolspos.sandbox.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "384b982b-6fc9-4ac9-834f-20f7dbb0285e",
+        "StrategyListSource": "14e4ce62-5541-4d9f-8734-195e5f34b92a",
         "HasImage": "False",
         "RawId": "7c2aaa0c-cc30-4b90-9354-ead4910d27df",
         "SelectedStrategyId": "93ca4aac-da4b-42e4-872f-b854a942726f",
@@ -48009,7 +48009,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "9d326370-1c30-43c3-90c4-1d2491bef21d",
+        "StrategyListSource": "b8c90075-3aeb-47c7-af56-cce0c8672aa7",
         "HasImage": "False",
         "RawId": "69d11f9e-70d8-4f01-8387-208ca030eaeb",
         "SelectedStrategyId": "b6446060-669a-470c-bc57-9fd81c5c08d4",
@@ -48025,7 +48025,7 @@
       {
         "Uri": "https://colstraining-2.sandbox.operations.dynamics.com/?cmp=COLS&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "942297ae-7f3d-460a-bab7-b5382640800a",
+        "StrategyListSource": "2af3b5c7-00ed-486e-b11e-d3f6a393722a",
         "HasImage": "False",
         "RawId": "235bbcec-34ec-44bd-b5fa-374c00ef8904",
         "SelectedStrategyId": "58c84361-fd16-449c-960b-d761a88b45c9",
@@ -48041,7 +48041,7 @@
       {
         "Uri": "https://colstraining-2.sandbox.operations.dynamics.com/?cmp=COLS&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "e5a30127-e419-42fa-b987-3924518f2ddb",
+        "StrategyListSource": "9d0045ae-4e13-46d5-81a1-494502a15fa6",
         "HasImage": "False",
         "RawId": "4078fe97-16c6-4c4a-8ada-56b724c5c2e0",
         "SelectedStrategyId": "c99e170a-406d-4cde-b6e9-0547e8dcec7f",
@@ -48057,7 +48057,7 @@
       {
         "Uri": "https://columbus-test.coupahost.com/",
         "Fields": "",
-        "StrategyListSource": "49034d6c-125a-4eb6-acf6-fccb1613de3e",
+        "StrategyListSource": "ccf58e50-8708-47db-a156-077f0f37a663",
         "HasImage": "False",
         "RawId": "e587a31a-d950-49f3-991e-e8f9b8a737f9",
         "SelectedStrategyId": "b92cdae6-0f4f-4750-bfad-c3a5a2fe2b21",
@@ -48073,7 +48073,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "8c807dc4-d23d-4b32-a7fd-78aac790d277",
+        "StrategyListSource": "ee753d53-8276-4a68-a3ab-7267f4ddfff4",
         "HasImage": "False",
         "RawId": "de279e03-7bf8-47f1-be11-d9c2d2e9f840",
         "SelectedStrategyId": "9c55f7f1-e8a6-4001-85fe-e25f8e7461c0",
@@ -48089,7 +48089,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=CatExternalCatalogBasketWizard&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "68831cb6-ae25-438c-a831-2e06ccc85062",
+        "StrategyListSource": "648d7f74-5fd3-486b-8561-baa2a5d1a4c0",
         "HasImage": "False",
         "RawId": "faec87c7-bde1-4fa6-aa15-10e8c9ca9812",
         "SelectedStrategyId": "27b70ed3-db2f-4ba5-9d89-3d11faddc556",
@@ -48105,7 +48105,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "17013931-ec0e-4385-ab6a-6523f2a9ee58",
+        "StrategyListSource": "08c5de1f-0eea-432a-b071-4137afe16d5b",
         "HasImage": "False",
         "RawId": "50885161-df23-4b7f-9eaf-3cc7eac848e2",
         "SelectedStrategyId": "3d204e75-4892-4d80-b8c5-909694ef5950",
@@ -48121,7 +48121,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "bdd8b206-aca4-43fb-be09-676ca6e0a4e3",
+        "StrategyListSource": "c7c91493-4007-420e-ab77-fbd7eaf87302",
         "HasImage": "False",
         "RawId": "402427e9-8f53-4f2e-8e1f-f61b23b34591",
         "SelectedStrategyId": "c075846b-e3c0-450b-ba50-debcd6333684",
@@ -48137,7 +48137,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAV27qgQ2C7U2lsywZ6nRJPgAAAAACAAAAAAAQZgAAAAEAACAAAACLevirg-XDs6orcw-T9fwRUJu9Rsfd0z4O5i8kN4LOcgAAAAAOgAAAAAIAACAAAADn_6wB5DIdKDcI7v8tlZg4F_iSHO33LdvR7jIaSZVljHAAAAAmQ9xpvsayERqcu5B1O2BY9_X9QwzmeNRwjwHpIl5Mj48I0vWijKTaGxoWtGnBK4223v17kPhI5cy68KxWXHToGjvl5jlC2jQDsOSvmi4BPQneplrFYVJgG3IliGWIa8xn-xsvCokzfmR1nDQNuW0SQAAAANDM1kIurrxvBIaR1iItXXZnamxf1BU356rSmeyLi7eza4ebHZEgEtqHxPQ8MpKvoqWWn3DiCJ2AjjvE-ECvU0c%26RedirectTo%3Dhttps%253A%252F%252Fcolspos.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639021918530767910.YjBmYTE1MTktMmI3ZS00ZmJjLWI2MjAtMjFmMDFhZjAwOGIwZjJkMjA5YzctYzQ5ZS00OGJhLThiM2UtMDlhNTExNDA0NjMw&redirect_uri=https%3A%2F%2Fcolspos.sandbox.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "c484e236-10f1-49a3-b964-04f279f2f2e3",
+        "StrategyListSource": "5f1dc723-751f-4eb5-b694-332b0a93b26d",
         "HasImage": "False",
         "RawId": "9fd60157-195b-4cc4-952d-390205160b1c",
         "SelectedStrategyId": "65cf40d0-27fb-4f3c-bdb6-8d6f9ea57db3",
@@ -48153,7 +48153,7 @@
       {
         "Uri": "https://colstraining-2.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "cd38d55f-6a8a-495b-8db9-cd815648e64b",
+        "StrategyListSource": "1694b4f1-cb7c-4a98-b424-ffc901e55573",
         "HasImage": "False",
         "RawId": "f0ecc2f0-2172-429a-9940-d279b3ac119b",
         "SelectedStrategyId": "2afc17e9-df89-44df-a986-68d36b67116a",
@@ -48169,7 +48169,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "f6e694f9-628c-4204-ba84-d44d24a3c6b3",
+        "StrategyListSource": "ee00b37c-dbdd-452b-a158-637365e242b3",
         "HasImage": "False",
         "RawId": "640e977b-8762-41aa-a942-630276f14a92",
         "SelectedStrategyId": "16c44e17-1766-4520-b99c-57d855e89a96",
@@ -48185,7 +48185,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "b5e2055e-9395-4663-a131-8c7ac8f6b991",
+        "StrategyListSource": "2af3228c-95e4-4798-b31d-4504ddefeb9e",
         "HasImage": "False",
         "RawId": "12490dc9-4263-44af-a5d4-3a1995bb70e6",
         "SelectedStrategyId": "2ee74b1d-48d5-41a6-806a-c1bafc261a52",
@@ -48201,7 +48201,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "148aa734-1c41-47af-ae59-91d930ba6730",
+        "StrategyListSource": "48537680-684b-444b-8d08-044bbeffff80",
         "HasImage": "False",
         "RawId": "524cceee-0d22-490c-b2d5-2c94b49fa61d",
         "SelectedStrategyId": "c58a1f46-1b38-4ec1-9246-f0fda3aef068",
@@ -48217,7 +48217,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "52af1e9d-3366-45d3-8932-13eaa5d3b3df",
+        "StrategyListSource": "75b358eb-43d3-4544-92f4-9ef9afeecee7",
         "HasImage": "False",
         "RawId": "750254a0-031e-4afe-90c7-24540f090297",
         "SelectedStrategyId": "59ab677e-bb9f-44f1-a2de-1afd3961f54c",
@@ -48233,7 +48233,7 @@
       {
         "Uri": "https://colstraining-2.sandbox.operations.dynamics.com/?cmp=COLS&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "757fed38-78cf-4c6e-9b7d-e249a0bd17b9",
+        "StrategyListSource": "2526d621-51d8-402a-82d3-dff7ce6afec1",
         "HasImage": "False",
         "RawId": "4e8d5c98-bf45-43a3-bffe-82ee20d2180d",
         "SelectedStrategyId": "3b28a914-fbf0-4a54-be4b-42d042c9f421",
@@ -48249,7 +48249,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=CatExternalCatalogBasketWizard&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "7311dc7d-1ef3-4574-bc4f-bbd6673dda40",
+        "StrategyListSource": "63bffb2c-cb3a-47e0-b0b3-560bf8617794",
         "HasImage": "False",
         "RawId": "99279e00-0532-41b6-b7a9-cb18ce9bedde",
         "SelectedStrategyId": "301de846-b4c1-458b-920f-7f678802492f",
@@ -48265,7 +48265,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "89e5609d-9b6a-4f51-9b3c-49b98d7132a6",
+        "StrategyListSource": "a3c357b7-5e19-411a-aa0c-1b5c29a942f4",
         "HasImage": "False",
         "RawId": "f16cd620-0ee4-49ad-ae58-3745faacb020",
         "SelectedStrategyId": "d2f3c6ce-4bc8-497c-9fc9-67de79c859af",
@@ -48281,7 +48281,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "0f3ab598-ff88-405a-98a6-e65c7726427c",
+        "StrategyListSource": "2479d535-6c8f-48d0-a0ab-0f4dffd49cf8",
         "HasImage": "False",
         "RawId": "85d6ff96-1871-4e21-9598-62bfeac074c7",
         "SelectedStrategyId": "c6bfe667-e5ed-4e85-a127-042fe10cb495",
@@ -48297,7 +48297,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "70596b11-51e6-4518-9971-f8f6d6af9941",
+        "StrategyListSource": "f1364b73-1619-406d-81b6-6bb0d4d32dd9",
         "HasImage": "False",
         "RawId": "8f450f87-ee85-4f16-b942-ab4ed0e60c2c",
         "SelectedStrategyId": "7956422a-7788-4ef6-8174-dcac636d9563",
@@ -48313,7 +48313,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "074be392-4ae6-4905-8248-025b73534ecb",
+        "StrategyListSource": "e1f35fea-9274-494c-a3c2-e86af33aa123",
         "HasImage": "False",
         "RawId": "fa6fc46a-cdf1-4708-9c3c-b5026d191388",
         "SelectedStrategyId": "b7843071-2e4d-4302-a5de-28c6c5d0ee90",
@@ -48329,7 +48329,7 @@
       {
         "Uri": "https://www.key4cleaningsupplies.com/catalog/p/%5eBWK396LBXA/Boardwalk-396-Series-Disposable-General-Purpose-Nitrile-Gloves-Powder-Free-Large-44-mil-Thick-95-Long-Black-100-Box-/",
         "Fields": "",
-        "StrategyListSource": "b514c25c-be15-4692-9660-bb3fd62f90e1",
+        "StrategyListSource": "f863b3d5-456e-4f89-998a-dd01e0d777ec",
         "HasImage": "False",
         "RawId": "983a9795-5b47-4809-ae95-a0d465355e48",
         "SelectedStrategyId": "064c2745-8d49-4e86-a57c-6f0725d1bed3",
@@ -48345,7 +48345,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "ab53ec00-a048-4882-8698-aed4db226821",
+        "StrategyListSource": "3f5cb557-d350-456c-920f-460d96589560",
         "HasImage": "False",
         "RawId": "3844fdb3-a1f9-40c8-a6ac-1accbbec0c60",
         "SelectedStrategyId": "3297d869-b66f-41da-91c3-a736e3ec5dca",
@@ -48361,7 +48361,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=PurchReqTable&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "7737daf6-e1dc-4167-80f5-172cf6a74297",
+        "StrategyListSource": "10aa1e1f-3779-4630-abb1-ac23e35dd217",
         "HasImage": "False",
         "RawId": "2fc790d3-ccf8-40bb-b890-23b0dddc0148",
         "SelectedStrategyId": "f124c905-ca68-4ded-a3ee-016bac5c4f4a",
@@ -48377,7 +48377,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "c695c7bf-f8d4-4c5f-90fb-b61990f88f06",
+        "StrategyListSource": "28ac072a-c616-4d36-aea5-fc31d7c00c7b",
         "HasImage": "False",
         "RawId": "ab800a6c-124d-40f9-a1d9-baa5a3a707e7",
         "SelectedStrategyId": "6ef688ea-6992-4355-ac8e-ead0a6f3ffcb",
@@ -48393,7 +48393,7 @@
       {
         "Uri": "https://colsuat.sandbox.operations.dynamics.com/?mi=CatExternalCatalogBasketWizard&cmp=COLS",
         "Fields": "",
-        "StrategyListSource": "214ba505-f499-44f7-9bc5-6b807d098f5d",
+        "StrategyListSource": "370754e5-e535-4ee2-80fe-b39bcb0dc037",
         "HasImage": "False",
         "RawId": "924d400d-eac5-4e7f-ae8b-e53a77e441c8",
         "SelectedStrategyId": "5414a5cc-b64b-4329-bd98-39a2a96e9a24",
