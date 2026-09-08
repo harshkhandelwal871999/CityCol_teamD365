@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/7/2026 1:36:49 PM +00:00",
-      "DateModify": "9/7/2026 1:36:49 PM +00:00",
+      "DateCreation": "9/8/2026 4:59:51 AM +00:00",
+      "DateModify": "9/8/2026 4:59:51 AM +00:00",
       "Title": "1. Create purchase requisition - GBR/No GBR (WBB - Multi line - GBR line selection)",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -87662,7 +87662,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "d4c878f5-230b-41fd-aba6-4ff34c5a8c8b",
+        "StrategyListSource": "cb10527d-1ecd-4297-8a76-ac636df2fa03",
         "HasImage": "False",
         "RawId": "b3d46242-5d51-435f-8ca3-bcf389df3ce6",
         "SelectedStrategyId": "e713aed6-9f96-49f7-8e7f-038744f0a0d9",
@@ -87678,7 +87678,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "6a567060-1f91-450c-84d6-7a910a5d6402",
+        "StrategyListSource": "18accb4f-a7ef-47bd-ad07-3a48a62493af",
         "HasImage": "False",
         "RawId": "7eacdf73-66a2-4fbe-9cab-c271f2ef20b5",
         "SelectedStrategyId": "7a3e5828-8e02-4236-9602-76bd9f77d8d8",
@@ -87694,7 +87694,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "807765b3-fc78-414e-8561-4403dd3ad08c",
+        "StrategyListSource": "ff52219d-2152-4831-ab4c-b0d6efc8de2f",
         "HasImage": "False",
         "RawId": "83915b0d-695e-4ab0-aee2-7c9915d1a2a7",
         "SelectedStrategyId": "89639cc1-7060-4fc0-bac6-ed95a2d3e9aa",
@@ -87710,7 +87710,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "e2ef7d38-de89-4976-bbeb-d336bb2d6b83",
+        "StrategyListSource": "5d5bae57-5633-4336-9a88-4c74a0ffb1a9",
         "HasImage": "False",
         "RawId": "270d3725-667f-433b-b60a-20db17936fce",
         "SelectedStrategyId": "cced8969-7438-4a6e-bd24-b8e5756fcbf1",
@@ -87726,7 +87726,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "7741af6f-6b91-4c21-a373-2a5cbff0a1ad",
+        "StrategyListSource": "a00e8074-5af4-4ec2-973b-24f43a844159",
         "HasImage": "False",
         "RawId": "301851c7-ceb0-4688-9905-b556a76b94cf",
         "SelectedStrategyId": "7af8d299-a015-4dc9-8d73-419bc3da9ad2",
@@ -87742,7 +87742,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "b0d3bf6f-19ba-429a-8ccd-846db9237d26",
+        "StrategyListSource": "448d0a32-79c1-4444-85dd-c3433fd89f1d",
         "HasImage": "False",
         "RawId": "15151536-664f-4607-8360-4f4eb80506d6",
         "SelectedStrategyId": "bd83ed5f-c102-4416-9284-d89106838da6",
@@ -87758,7 +87758,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAV27qgQ2C7U2lsywZ6nRJPgAAAAACAAAAAAAQZgAAAAEAACAAAACLevirg-XDs6orcw-T9fwRUJu9Rsfd0z4O5i8kN4LOcgAAAAAOgAAAAAIAACAAAADn_6wB5DIdKDcI7v8tlZg4F_iSHO33LdvR7jIaSZVljHAAAAAmQ9xpvsayERqcu5B1O2BY9_X9QwzmeNRwjwHpIl5Mj48I0vWijKTaGxoWtGnBK4223v17kPhI5cy68KxWXHToGjvl5jlC2jQDsOSvmi4BPQneplrFYVJgG3IliGWIa8xn-xsvCokzfmR1nDQNuW0SQAAAANDM1kIurrxvBIaR1iItXXZnamxf1BU356rSmeyLi7eza4ebHZEgEtqHxPQ8MpKvoqWWn3DiCJ2AjjvE-ECvU0c%26RedirectTo%3Dhttps%253A%252F%252Fcolspos.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639021918530767910.YjBmYTE1MTktMmI3ZS00ZmJjLWI2MjAtMjFmMDFhZjAwOGIwZjJkMjA5YzctYzQ5ZS00OGJhLThiM2UtMDlhNTExNDA0NjMw&redirect_uri=https%3A%2F%2Fcolspos.sandbox.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "c186bddd-2db3-499f-89b5-fc59883c864a",
+        "StrategyListSource": "a09ef143-782e-42d6-8c4d-0f033962344f",
         "HasImage": "False",
         "RawId": "9c483ba5-dbef-448b-ad7c-64aea3bd2c18",
         "SelectedStrategyId": "be7ff3d1-9b96-42b2-983a-c7934aeb2155",
@@ -87774,7 +87774,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "f1234fae-6a8a-40f3-b4e9-05edbad6e529",
+        "StrategyListSource": "6eb9218a-c344-4f60-b1bf-a4036c2c3368",
         "HasImage": "False",
         "RawId": "79631598-abcf-499a-92ca-09ab7aca7ee0",
         "SelectedStrategyId": "e7eab8f6-3b9c-4326-a07c-1b3186640381",
@@ -87790,7 +87790,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "d95541bd-ff86-40f4-84fb-fca6b0d5443c",
+        "StrategyListSource": "2456b51d-a59a-4fff-befd-dad463ed9c85",
         "HasImage": "False",
         "RawId": "ef2f18db-88fc-42c0-9ad9-3bad088fbdd8",
         "SelectedStrategyId": "ae5f63bc-d145-48fb-8d04-2909b43e2e6c",
@@ -87806,7 +87806,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "0e5aa62a-2e42-4766-b115-dae1817a8fa5",
+        "StrategyListSource": "9b9003ad-9581-4797-8ca5-60f9264213a1",
         "HasImage": "False",
         "RawId": "b0b9aab2-a8e3-4cc7-9b0d-7cc816732c03",
         "SelectedStrategyId": "1c4a0abb-5d2d-4198-a780-5233f38cc701",
@@ -87822,7 +87822,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "e37e0018-889b-4fbe-9db8-ea8156dd8ed9",
+        "StrategyListSource": "8c739476-76b7-4419-9544-6ed5103cf545",
         "HasImage": "False",
         "RawId": "f98ddd1b-35b5-41cc-8e7e-9d20c2769ae8",
         "SelectedStrategyId": "f2777534-de61-4f9e-9de8-db091a3601f9",
@@ -87838,7 +87838,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "98c1018c-dad0-4244-ad26-bbc8c609a643",
+        "StrategyListSource": "65ac6846-d02d-4dc7-a7ba-7a01d52ac198",
         "HasImage": "False",
         "RawId": "260da8be-a453-4ec1-855e-cc0ea0eadf70",
         "SelectedStrategyId": "b9c8c41b-d7eb-4008-b05a-cdfefa139b2e",
@@ -87854,7 +87854,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "f17eeaef-76a1-42fb-b35d-79ed4ab30ef1",
+        "StrategyListSource": "8a591697-10b0-4ff2-bda8-82ef1aa5af35",
         "HasImage": "False",
         "RawId": "9a496b77-af9a-4d40-b3fb-d8b4c934e684",
         "SelectedStrategyId": "8b28db55-60ca-4f5c-a47c-671a16561a87",
@@ -87870,7 +87870,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "bf1938b4-a5c4-4780-a38a-84df3ad34d0f",
+        "StrategyListSource": "c409fd64-fc5b-477a-8293-17bc59215364",
         "HasImage": "False",
         "RawId": "c8bb33c8-0cb1-4ade-9724-2172edd65a9e",
         "SelectedStrategyId": "95113c09-978c-4f8a-8dd4-55a1de71d308",
@@ -87886,7 +87886,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "eedbad70-b969-4400-9c10-375671168c72",
+        "StrategyListSource": "342febb0-ffac-48d7-8e90-1036a5bba6f8",
         "HasImage": "False",
         "RawId": "c8bb33c8-0cb1-4ade-9724-2172edd65a9e",
         "SelectedStrategyId": "fa4c8e3c-aaaa-42c7-86bf-4e8be4b7f1ff",
@@ -87902,7 +87902,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "10b83d8b-3a94-425b-b1f7-90c99828a7d0",
+        "StrategyListSource": "12146e8a-255f-46de-ac9f-3c40bdf70881",
         "HasImage": "False",
         "RawId": "741940c8-7b50-4b74-866e-80f4975bb188",
         "SelectedStrategyId": "77e57f41-be03-4e47-862b-2438fe45e65c",
@@ -87918,7 +87918,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAV27qgQ2C7U2lsywZ6nRJPgAAAAACAAAAAAAQZgAAAAEAACAAAACLevirg-XDs6orcw-T9fwRUJu9Rsfd0z4O5i8kN4LOcgAAAAAOgAAAAAIAACAAAADn_6wB5DIdKDcI7v8tlZg4F_iSHO33LdvR7jIaSZVljHAAAAAmQ9xpvsayERqcu5B1O2BY9_X9QwzmeNRwjwHpIl5Mj48I0vWijKTaGxoWtGnBK4223v17kPhI5cy68KxWXHToGjvl5jlC2jQDsOSvmi4BPQneplrFYVJgG3IliGWIa8xn-xsvCokzfmR1nDQNuW0SQAAAANDM1kIurrxvBIaR1iItXXZnamxf1BU356rSmeyLi7eza4ebHZEgEtqHxPQ8MpKvoqWWn3DiCJ2AjjvE-ECvU0c%26RedirectTo%3Dhttps%253A%252F%252Fcolspos.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639021918530767910.YjBmYTE1MTktMmI3ZS00ZmJjLWI2MjAtMjFmMDFhZjAwOGIwZjJkMjA5YzctYzQ5ZS00OGJhLThiM2UtMDlhNTExNDA0NjMw&redirect_uri=https%3A%2F%2Fcolspos.sandbox.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "c87436f4-627c-4f5f-b5a9-cf3e7c52d0ef",
+        "StrategyListSource": "2610ef0b-0eb4-4ea9-93e7-6e3120e50898",
         "HasImage": "False",
         "RawId": "7c2aaa0c-cc30-4b90-9354-ead4910d27df",
         "SelectedStrategyId": "df1a0fd9-277f-4506-910e-03b36485b1c2",
@@ -87934,7 +87934,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "c26ab932-d8da-4a0a-b7eb-d74813711044",
+        "StrategyListSource": "770e2ed3-6b23-4d34-b5c3-9819c1391f1a",
         "HasImage": "False",
         "RawId": "236d8b42-9b19-49ce-8ad3-c8acb14f1831",
         "SelectedStrategyId": "85ca7d58-fd31-4bea-b992-846467968bbb",
@@ -87950,7 +87950,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "ac5d52f0-ab93-43f9-b870-2bb8f9d06f46",
+        "StrategyListSource": "31ced600-b320-4980-ba49-313daf70a465",
         "HasImage": "False",
         "RawId": "022693fa-34c8-491c-8461-1b3acef5bb5e",
         "SelectedStrategyId": "d388c067-804d-46ff-9192-f13eec6d34c3",
@@ -87966,7 +87966,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAV27qgQ2C7U2lsywZ6nRJPgAAAAACAAAAAAAQZgAAAAEAACAAAACLevirg-XDs6orcw-T9fwRUJu9Rsfd0z4O5i8kN4LOcgAAAAAOgAAAAAIAACAAAADn_6wB5DIdKDcI7v8tlZg4F_iSHO33LdvR7jIaSZVljHAAAAAmQ9xpvsayERqcu5B1O2BY9_X9QwzmeNRwjwHpIl5Mj48I0vWijKTaGxoWtGnBK4223v17kPhI5cy68KxWXHToGjvl5jlC2jQDsOSvmi4BPQneplrFYVJgG3IliGWIa8xn-xsvCokzfmR1nDQNuW0SQAAAANDM1kIurrxvBIaR1iItXXZnamxf1BU356rSmeyLi7eza4ebHZEgEtqHxPQ8MpKvoqWWn3DiCJ2AjjvE-ECvU0c%26RedirectTo%3Dhttps%253A%252F%252Fcolspos.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639021918530767910.YjBmYTE1MTktMmI3ZS00ZmJjLWI2MjAtMjFmMDFhZjAwOGIwZjJkMjA5YzctYzQ5ZS00OGJhLThiM2UtMDlhNTExNDA0NjMw&redirect_uri=https%3A%2F%2Fcolspos.sandbox.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "ec90b539-07df-4adb-a9dc-2743a26a0463",
+        "StrategyListSource": "de5dca19-61a5-401b-bb59-3b7f7a83e75a",
         "HasImage": "False",
         "RawId": "9a3f79a5-78ae-40f2-8d80-1eb54323e556",
         "SelectedStrategyId": "b521fb1e-5100-469b-89b4-0f890b11e13b",
@@ -87982,7 +87982,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "50242d57-a90e-4782-959f-2d5805d32430",
+        "StrategyListSource": "41244876-42f4-453f-b0f8-73db3dc61d95",
         "HasImage": "False",
         "RawId": "f3fb53f1-a312-4450-a667-83382d17acb4",
         "SelectedStrategyId": "090b9d2e-981e-4978-9c4d-890f07003866",
@@ -87998,7 +87998,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "109163da-bbe4-4102-9f27-a65e74f39a6b",
+        "StrategyListSource": "6f72a094-e15b-493f-b079-f2137a554b7c",
         "HasImage": "False",
         "RawId": "7c2dae4e-1d8e-4b3b-a6b3-75874c387bce",
         "SelectedStrategyId": "244dbd78-f9ca-48a3-9cbe-f937847fd7be",
@@ -88014,7 +88014,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "699499b7-8042-43bd-b972-c2c6caa93f84",
+        "StrategyListSource": "937d0d74-8a2c-4725-a66c-4c0226e21fbd",
         "HasImage": "False",
         "RawId": "c82135ae-f955-4779-87ef-3043facf172b",
         "SelectedStrategyId": "b2835803-880b-4e58-8050-8b3409e52330",
@@ -88030,7 +88030,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "12dd6168-1669-4a5c-a744-cc2733c12bbb",
+        "StrategyListSource": "b0689754-777a-4314-a495-7e82946c1c90",
         "HasImage": "False",
         "RawId": "236d8b42-9b19-49ce-8ad3-c8acb14f1831",
         "SelectedStrategyId": "77ef6dbc-5edc-4325-946d-863fdcd2ed89",
@@ -88046,7 +88046,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "4cdcfeca-fc16-4736-876b-a439c578849f",
+        "StrategyListSource": "b29a5a54-1ddb-4e2f-8c51-2770119ca4d1",
         "HasImage": "False",
         "RawId": "3c7d484e-9401-4dd3-8d17-f29bb06266d6",
         "SelectedStrategyId": "4d5648f7-8e65-4116-9e2d-a09afd630633",
@@ -88062,7 +88062,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "370ac1d8-42f4-4b6d-a65e-0f8c3ba98f32",
+        "StrategyListSource": "c03ee6a1-efb1-4102-b18b-28d80c0c5a86",
         "HasImage": "False",
         "RawId": "4971e5d2-dad4-4b7e-8dc8-9cf0623988bd",
         "SelectedStrategyId": "d52bc105-da62-46b6-99fa-8101ee183cd3",
@@ -88078,7 +88078,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "47d626d1-4d22-456c-afae-c5850e80af09",
+        "StrategyListSource": "7498be38-0289-4b53-a8dd-7e1bdc9a4450",
         "HasImage": "False",
         "RawId": "e3383002-77cf-498e-b735-08ec6939cbe4",
         "SelectedStrategyId": "6d24b7fa-38ee-4af3-94a3-772bad975033",
@@ -88094,7 +88094,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "20a7c791-c614-4221-a18e-344bc1ec4156",
+        "StrategyListSource": "f7895b51-a599-4e79-8fde-e2d9db9c94d3",
         "HasImage": "False",
         "RawId": "8873c599-6234-4ffd-9ee4-6ea631b029ad",
         "SelectedStrategyId": "72903627-caa9-401f-ba67-c2c5d06a4cbb",
@@ -88110,7 +88110,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "30aac27b-f32d-46b9-9b8e-d5fc5e991a1b",
+        "StrategyListSource": "6076ca72-b6a6-4032-8a16-731c44d704dc",
         "HasImage": "False",
         "RawId": "b5266796-f2db-4677-97cd-20f2bdc64586",
         "SelectedStrategyId": "e9acf0fb-96cd-4df9-be8c-2fda9c309074",
@@ -88126,7 +88126,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "c39bfbe9-9a15-48f7-b23e-b26db70a2de3",
+        "StrategyListSource": "c018935a-948e-4527-ae6f-26ce183a7a3e",
         "HasImage": "False",
         "RawId": "b5266796-f2db-4677-97cd-20f2bdc64586",
         "SelectedStrategyId": "64e9f1c4-0702-42a4-8613-eac2cdab6c5c",
@@ -88142,7 +88142,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "371c7af5-1762-4d0b-b712-c028175ca3a1",
+        "StrategyListSource": "bb1093ca-c9ce-41c5-b2a6-0f87ed6cb8a9",
         "HasImage": "False",
         "RawId": "e3383002-77cf-498e-b735-08ec6939cbe4",
         "SelectedStrategyId": "2750a9e4-0e49-4a25-bc6e-9511e0e63595",
@@ -88158,7 +88158,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "558d4fc2-6260-4b18-b899-688342178368",
+        "StrategyListSource": "b1723978-58a2-4761-b15a-73c897d6da8f",
         "HasImage": "False",
         "RawId": "827fb3d5-2753-4a05-8e01-f7c64336539a",
         "SelectedStrategyId": "8333f97d-8217-4e92-9929-730e57260ff3",
@@ -88174,7 +88174,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "dc59fbc6-cc8d-4167-952b-8044b4c5c8e6",
+        "StrategyListSource": "04c538cd-0c12-4952-8d3d-3dcf359f213f",
         "HasImage": "False",
         "RawId": "1ff47349-ae0a-4fc6-931b-ce3a8f5b7c2d",
         "SelectedStrategyId": "7d7e4588-fb12-4d9f-a19e-584e3ff0ac23",
@@ -88190,7 +88190,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "90a956e9-a57e-40f4-93aa-c7213e5bc4b4",
+        "StrategyListSource": "a360b07b-0f95-449e-a3a3-719566a844fc",
         "HasImage": "False",
         "RawId": "ae8eeb74-a993-4335-a1b5-f882a4fa50e1",
         "SelectedStrategyId": "b21b0a67-2ff1-408d-bf0e-e7c26e1d1509",
@@ -88206,7 +88206,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/login",
         "Fields": "",
-        "StrategyListSource": "57e63570-4868-4ac8-b393-65b4ae37e010",
+        "StrategyListSource": "6f019fbf-3a8f-46de-9654-f88d548cef6a",
         "HasImage": "False",
         "RawId": "6403f4dc-3214-492d-8383-a5c84d46a77e",
         "SelectedStrategyId": "66230e9c-702a-4afe-aa1c-4de5d996df2f",
@@ -88222,7 +88222,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "a5bc9bc1-cf99-49b4-a7b1-26a0b6e737cf",
+        "StrategyListSource": "44e55a76-8ea5-4a1b-99dc-180b7b04db2c",
         "HasImage": "False",
         "RawId": "123908ce-1059-4227-83ad-fb9203cf6c08",
         "SelectedStrategyId": "06e51819-c442-4d69-a0dc-6176242e5c72",
@@ -88238,7 +88238,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "2f0997a4-c324-4941-a6d7-d711c9dca801",
+        "StrategyListSource": "2820a519-5d9f-4a61-97b2-b4fecdf36be7",
         "HasImage": "False",
         "RawId": "ff7df370-5988-4c44-8a50-9a2f4dff3f57",
         "SelectedStrategyId": "00e9306f-8500-4bf5-9550-32eeb6f891a2",
@@ -88254,7 +88254,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "70bbf133-52f0-4391-9fa2-7f0322133874",
+        "StrategyListSource": "66a79828-7731-47d4-b7f7-2e88b085c188",
         "HasImage": "False",
         "RawId": "5f6eae76-f2bc-4b51-9d20-ab63cf60ec27",
         "SelectedStrategyId": "d2179e67-ce6b-4567-b43f-4cf959730f15",
@@ -88270,7 +88270,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "72105394-a5de-4397-83cb-bd9a1cc1b4bb",
+        "StrategyListSource": "6197f268-e8de-49f1-8878-ecbd72d0795a",
         "HasImage": "False",
         "RawId": "a50dc315-4d86-4caa-96f5-11d114042879",
         "SelectedStrategyId": "ba60ea3c-cfaa-4810-9827-341fcb121785",
@@ -88286,7 +88286,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "9b1e9935-5952-4734-a6d4-a045252b5322",
+        "StrategyListSource": "8756ee05-982b-4ad8-b184-ee4383c84490",
         "HasImage": "False",
         "RawId": "3ba80501-daf5-44b5-908d-d269da09ae5f",
         "SelectedStrategyId": "245b94ce-34b3-493a-9a89-60dea5ebcfc5",
@@ -88302,7 +88302,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "b09c6cdc-7558-4019-9939-f49906cbc2e0",
+        "StrategyListSource": "7521fd97-284e-4d69-9e34-4a247c54e58f",
         "HasImage": "False",
         "RawId": "0cf479cf-ca3c-4b1a-89fa-8741286ebff0",
         "SelectedStrategyId": "2c651bdf-ff70-481c-be1a-389910d39573",
@@ -88318,7 +88318,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAV27qgQ2C7U2lsywZ6nRJPgAAAAACAAAAAAAQZgAAAAEAACAAAACLevirg-XDs6orcw-T9fwRUJu9Rsfd0z4O5i8kN4LOcgAAAAAOgAAAAAIAACAAAADn_6wB5DIdKDcI7v8tlZg4F_iSHO33LdvR7jIaSZVljHAAAAAmQ9xpvsayERqcu5B1O2BY9_X9QwzmeNRwjwHpIl5Mj48I0vWijKTaGxoWtGnBK4223v17kPhI5cy68KxWXHToGjvl5jlC2jQDsOSvmi4BPQneplrFYVJgG3IliGWIa8xn-xsvCokzfmR1nDQNuW0SQAAAANDM1kIurrxvBIaR1iItXXZnamxf1BU356rSmeyLi7eza4ebHZEgEtqHxPQ8MpKvoqWWn3DiCJ2AjjvE-ECvU0c%26RedirectTo%3Dhttps%253A%252F%252Fcolspos.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639021918530767910.YjBmYTE1MTktMmI3ZS00ZmJjLWI2MjAtMjFmMDFhZjAwOGIwZjJkMjA5YzctYzQ5ZS00OGJhLThiM2UtMDlhNTExNDA0NjMw&redirect_uri=https%3A%2F%2Fcolspos.sandbox.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "06d82606-1da8-4eba-86d4-5d07c6bca8ca",
+        "StrategyListSource": "d7a56a30-8b55-4be9-bffb-72cc47368b8c",
         "HasImage": "False",
         "RawId": "9fd60157-195b-4cc4-952d-390205160b1c",
         "SelectedStrategyId": "2119c379-b733-450a-b701-b77bb9eddd89",
@@ -88334,7 +88334,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "3c155a7b-2d25-4e43-9845-b550d9ad8a08",
+        "StrategyListSource": "93db8b3f-cefd-4c13-b46d-c51b440218e6",
         "HasImage": "False",
         "RawId": "e9b9d44f-25fa-4f50-b385-c7eb606285cc",
         "SelectedStrategyId": "b8a3f372-6a4d-49f6-bd29-1424d3f9faf1",
@@ -88350,7 +88350,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "249abeb3-0d12-4964-8b26-e2f54d87dde7",
+        "StrategyListSource": "39939d78-3b91-4a74-8166-8f529424d02c",
         "HasImage": "False",
         "RawId": "a37bd3a4-c724-48bc-9706-4f06baff4dd2",
         "SelectedStrategyId": "e2a706ba-5e90-43c2-b604-ca6a1aace061",
@@ -88366,7 +88366,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "985c1b01-9b4f-470d-b751-bee473695775",
+        "StrategyListSource": "a7f2df7a-e470-4523-8803-cbff5f46b0e0",
         "HasImage": "False",
         "RawId": "c3b5f25e-122c-41dc-9910-f6b8750c5873",
         "SelectedStrategyId": "0627ca84-f106-4681-8400-89e929b1d5a0",
@@ -88382,7 +88382,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAV27qgQ2C7U2lsywZ6nRJPgAAAAACAAAAAAAQZgAAAAEAACAAAACLevirg-XDs6orcw-T9fwRUJu9Rsfd0z4O5i8kN4LOcgAAAAAOgAAAAAIAACAAAADn_6wB5DIdKDcI7v8tlZg4F_iSHO33LdvR7jIaSZVljHAAAAAmQ9xpvsayERqcu5B1O2BY9_X9QwzmeNRwjwHpIl5Mj48I0vWijKTaGxoWtGnBK4223v17kPhI5cy68KxWXHToGjvl5jlC2jQDsOSvmi4BPQneplrFYVJgG3IliGWIa8xn-xsvCokzfmR1nDQNuW0SQAAAANDM1kIurrxvBIaR1iItXXZnamxf1BU356rSmeyLi7eza4ebHZEgEtqHxPQ8MpKvoqWWn3DiCJ2AjjvE-ECvU0c%26RedirectTo%3Dhttps%253A%252F%252Fcolspos.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639021918530767910.YjBmYTE1MTktMmI3ZS00ZmJjLWI2MjAtMjFmMDFhZjAwOGIwZjJkMjA5YzctYzQ5ZS00OGJhLThiM2UtMDlhNTExNDA0NjMw&redirect_uri=https%3A%2F%2Fcolspos.sandbox.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "cef617e3-9741-477f-88e3-c70caab33861",
+        "StrategyListSource": "f6ebb35c-be72-4948-94d7-9b779b60ee2e",
         "HasImage": "False",
         "RawId": "9c483ba5-dbef-448b-ad7c-64aea3bd2c18",
         "SelectedStrategyId": "41af9339-63e3-40ec-9a3c-f467f8447860",
@@ -88398,7 +88398,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "2fac21fb-e850-44fe-95eb-0ab1cea8a46a",
+        "StrategyListSource": "551508e9-c228-4618-bcdd-113cbe2100bc",
         "HasImage": "False",
         "RawId": "741940c8-7b50-4b74-866e-80f4975bb188",
         "SelectedStrategyId": "0f424058-6759-4b38-9b68-913d7f644845",
@@ -88414,7 +88414,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAV27qgQ2C7U2lsywZ6nRJPgAAAAACAAAAAAAQZgAAAAEAACAAAACLevirg-XDs6orcw-T9fwRUJu9Rsfd0z4O5i8kN4LOcgAAAAAOgAAAAAIAACAAAADn_6wB5DIdKDcI7v8tlZg4F_iSHO33LdvR7jIaSZVljHAAAAAmQ9xpvsayERqcu5B1O2BY9_X9QwzmeNRwjwHpIl5Mj48I0vWijKTaGxoWtGnBK4223v17kPhI5cy68KxWXHToGjvl5jlC2jQDsOSvmi4BPQneplrFYVJgG3IliGWIa8xn-xsvCokzfmR1nDQNuW0SQAAAANDM1kIurrxvBIaR1iItXXZnamxf1BU356rSmeyLi7eza4ebHZEgEtqHxPQ8MpKvoqWWn3DiCJ2AjjvE-ECvU0c%26RedirectTo%3Dhttps%253A%252F%252Fcolspos.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639021918530767910.YjBmYTE1MTktMmI3ZS00ZmJjLWI2MjAtMjFmMDFhZjAwOGIwZjJkMjA5YzctYzQ5ZS00OGJhLThiM2UtMDlhNTExNDA0NjMw&redirect_uri=https%3A%2F%2Fcolspos.sandbox.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "02db7c66-11e4-4e96-876d-19e262d2ec28",
+        "StrategyListSource": "61887bf9-e076-464c-b97f-c929a84783a2",
         "HasImage": "False",
         "RawId": "9a3f79a5-78ae-40f2-8d80-1eb54323e556",
         "SelectedStrategyId": "a5b971da-3161-4a41-b7f4-28f4a765fa31",
@@ -88430,7 +88430,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAV27qgQ2C7U2lsywZ6nRJPgAAAAACAAAAAAAQZgAAAAEAACAAAACLevirg-XDs6orcw-T9fwRUJu9Rsfd0z4O5i8kN4LOcgAAAAAOgAAAAAIAACAAAADn_6wB5DIdKDcI7v8tlZg4F_iSHO33LdvR7jIaSZVljHAAAAAmQ9xpvsayERqcu5B1O2BY9_X9QwzmeNRwjwHpIl5Mj48I0vWijKTaGxoWtGnBK4223v17kPhI5cy68KxWXHToGjvl5jlC2jQDsOSvmi4BPQneplrFYVJgG3IliGWIa8xn-xsvCokzfmR1nDQNuW0SQAAAANDM1kIurrxvBIaR1iItXXZnamxf1BU356rSmeyLi7eza4ebHZEgEtqHxPQ8MpKvoqWWn3DiCJ2AjjvE-ECvU0c%26RedirectTo%3Dhttps%253A%252F%252Fcolspos.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639021918530767910.YjBmYTE1MTktMmI3ZS00ZmJjLWI2MjAtMjFmMDFhZjAwOGIwZjJkMjA5YzctYzQ5ZS00OGJhLThiM2UtMDlhNTExNDA0NjMw&redirect_uri=https%3A%2F%2Fcolspos.sandbox.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "735c282c-87a2-49e3-bf1a-ae44b37c6ce5",
+        "StrategyListSource": "6adea448-30aa-4610-ab2c-226c518de593",
         "HasImage": "False",
         "RawId": "7c2aaa0c-cc30-4b90-9354-ead4910d27df",
         "SelectedStrategyId": "e5e731c0-463f-499c-b6f7-2e00f886611e",
@@ -88446,7 +88446,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "984bd742-d429-47f2-bd58-cd5bc286c297",
+        "StrategyListSource": "96f089cd-421f-42b9-8d80-5b1d8600f402",
         "HasImage": "False",
         "RawId": "76ade7c9-bdf1-4d5f-93fa-725723845efa",
         "SelectedStrategyId": "7f21eda0-3dd1-413d-a319-188b183a7b21",
@@ -88462,7 +88462,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "5cb2a9f6-641f-4b56-8449-37a2f2982a95",
+        "StrategyListSource": "6c66bb46-ba81-41c2-b32e-8d77951c0548",
         "HasImage": "False",
         "RawId": "7cefb5e4-b313-4555-82bb-028ac7eb5f49",
         "SelectedStrategyId": "6e093cbd-3c0c-49a3-94dc-8af41747da3b",
@@ -88478,7 +88478,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "2bea27bf-b1af-4a48-9a39-d30647b3b1a7",
+        "StrategyListSource": "27587d10-cf8b-40d3-aca5-6ae8fe5c1170",
         "HasImage": "False",
         "RawId": "8873c599-6234-4ffd-9ee4-6ea631b029ad",
         "SelectedStrategyId": "eeaab7f0-a4d8-4d30-bf83-bf633ecca0e3",
@@ -88494,7 +88494,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "117cda6c-bfb1-43cc-b16b-cb46b3ede396",
+        "StrategyListSource": "43dafbec-141c-4223-823b-12fef0dd4d3a",
         "HasImage": "False",
         "RawId": "cfcf6efe-1a8a-41fa-be7e-f73baccabcd2",
         "SelectedStrategyId": "4e8aeda1-169c-4169-9374-99b8cca5f968",
@@ -88510,7 +88510,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "c81378f8-44be-4170-b3d4-4e93531b9d50",
+        "StrategyListSource": "341976fd-24bd-4dd9-a063-6ce7bc944acb",
         "HasImage": "False",
         "RawId": "f3fb53f1-a312-4450-a667-83382d17acb4",
         "SelectedStrategyId": "90f015d3-6129-4e38-b274-baa6103949b7",
@@ -88526,7 +88526,7 @@
       {
         "Uri": "https://login.microsoftonline.com/4f05caca-269f-4840-a1eb-9079b8c61732/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAV27qgQ2C7U2lsywZ6nRJPgAAAAACAAAAAAAQZgAAAAEAACAAAACLevirg-XDs6orcw-T9fwRUJu9Rsfd0z4O5i8kN4LOcgAAAAAOgAAAAAIAACAAAADn_6wB5DIdKDcI7v8tlZg4F_iSHO33LdvR7jIaSZVljHAAAAAmQ9xpvsayERqcu5B1O2BY9_X9QwzmeNRwjwHpIl5Mj48I0vWijKTaGxoWtGnBK4223v17kPhI5cy68KxWXHToGjvl5jlC2jQDsOSvmi4BPQneplrFYVJgG3IliGWIa8xn-xsvCokzfmR1nDQNuW0SQAAAANDM1kIurrxvBIaR1iItXXZnamxf1BU356rSmeyLi7eza4ebHZEgEtqHxPQ8MpKvoqWWn3DiCJ2AjjvE-ECvU0c%26RedirectTo%3Dhttps%253A%252F%252Fcolspos.sandbox.operations.dynamics.com%252F&response_mode=form_post&nonce=639021918530767910.YjBmYTE1MTktMmI3ZS00ZmJjLWI2MjAtMjFmMDFhZjAwOGIwZjJkMjA5YzctYzQ5ZS00OGJhLThiM2UtMDlhNTExNDA0NjMw&redirect_uri=https%3A%2F%2Fcolspos.sandbox.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "e12ea955-3574-4f37-bcf3-0647e87afd79",
+        "StrategyListSource": "2f06e4fc-6734-4e07-87d3-a0b296699552",
         "HasImage": "False",
         "RawId": "9fd60157-195b-4cc4-952d-390205160b1c",
         "SelectedStrategyId": "4cdab6a1-cab5-4d29-beb6-da1e33b73f94",
@@ -88542,7 +88542,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "7133980a-6412-42bc-bd7c-07f1e1258e18",
+        "StrategyListSource": "58b04ac9-26fd-4380-ae6e-efd66d0f6de0",
         "HasImage": "False",
         "RawId": "f98ddd1b-35b5-41cc-8e7e-9d20c2769ae8",
         "SelectedStrategyId": "72597ddf-d524-48cd-8bbd-6b1be0f227ba",
@@ -88558,7 +88558,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "ee17c173-8669-4b69-b96b-7f6b7d78e10c",
+        "StrategyListSource": "1a39f286-282e-461c-808c-cb4a9463c3c3",
         "HasImage": "False",
         "RawId": "f4945d40-e710-415b-a42e-66b5c6dc9d6e",
         "SelectedStrategyId": "0ff8bc2f-eaa4-41f3-ac88-646b6f575307",
@@ -88574,7 +88574,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "75ff3380-7cd0-46e2-a298-319fca4d8112",
+        "StrategyListSource": "ae34563c-e516-4e99-ae2d-ca27a46b37bc",
         "HasImage": "False",
         "RawId": "4d1bb6f5-7a08-4975-8d4d-fe87b2047faf",
         "SelectedStrategyId": "e067cc2f-1c37-4e40-b55c-89a5dc583194",
@@ -88590,7 +88590,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "1ab5c991-7dc9-42d8-a947-99eb94b81696",
+        "StrategyListSource": "75cd1578-7de9-4aa9-85dd-1dc3b694544c",
         "HasImage": "False",
         "RawId": "b12273e9-a282-4deb-ab2f-0f0b34a66b65",
         "SelectedStrategyId": "fbc9e650-5943-4447-ac16-2e8a3cfe05de",
@@ -88606,7 +88606,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "db376c48-6bee-4a68-aa1c-6685693e4ea5",
+        "StrategyListSource": "292350eb-30b1-41ec-8732-b6d95a4bff7c",
         "HasImage": "False",
         "RawId": "d384a3fb-556a-4f28-b550-4c2486ce6dd1",
         "SelectedStrategyId": "a2647b3f-709a-40e1-918a-7adffee58a3a",
@@ -88622,7 +88622,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "d12ad516-be2b-4bd5-99dd-8470bc8e99e6",
+        "StrategyListSource": "8198f578-ea3e-49ca-9080-98d4ecea0e5a",
         "HasImage": "False",
         "RawId": "f4945d40-e710-415b-a42e-66b5c6dc9d6e",
         "SelectedStrategyId": "1014295a-9950-4ef1-a711-7e953c2a761b",
@@ -88638,7 +88638,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "26691a5b-d37a-4b53-a609-ad27ce9edef3",
+        "StrategyListSource": "03d8cd48-b3f5-4c6b-95eb-6a55bd659324",
         "HasImage": "False",
         "RawId": "7cefb5e4-b313-4555-82bb-028ac7eb5f49",
         "SelectedStrategyId": "17d2a6fa-527e-43e4-a7b8-041ddbc01c23",
@@ -88654,7 +88654,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "a8589886-712d-4463-ad31-190470bbdecf",
+        "StrategyListSource": "22789a9e-4b18-42dc-a69f-cbee6bc313aa",
         "HasImage": "False",
         "RawId": "15151536-664f-4607-8360-4f4eb80506d6",
         "SelectedStrategyId": "7f23fa40-faad-4ccb-ab6f-9b9655494a19",
@@ -88670,7 +88670,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTable",
         "Fields": "",
-        "StrategyListSource": "41e7f52c-0217-4f8c-bd64-3186a0a32034",
+        "StrategyListSource": "dc77ffe7-e573-40c2-a036-e750988df549",
         "HasImage": "False",
         "RawId": "83915b0d-695e-4ab0-aee2-7c9915d1a2a7",
         "SelectedStrategyId": "823ff5a7-087d-4a13-b221-887a2af6307e",
@@ -88686,7 +88686,7 @@
       {
         "Uri": "https://colspos.sandbox.operations.dynamics.com/?cmp=COLS&mi=PurchReqTableAll",
         "Fields": "",
-        "StrategyListSource": "dd96d769-9c69-4927-b9f9-f90bc0fdfb57",
+        "StrategyListSource": "fa25b353-f883-4762-b013-10336dd37061",
         "HasImage": "False",
         "RawId": "01d83dc9-f0b4-47f0-bd7a-64516e37582c",
         "SelectedStrategyId": "dca09f2f-7046-499f-b0ac-3c875d9a03cb",
